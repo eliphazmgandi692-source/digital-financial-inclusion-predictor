@@ -1,0 +1,11 @@
+file,exists
+report_branding_banner.png,TRUE
+overall_adoption.png,TRUE
+adoption_by_gender.png,TRUE
+adoption_by_location.png,TRUE
+transactions_by_adoption.png,TRUE
+monthly_savings_by_adoption.png,TRUE
+adoption_by_education.png,TRUE
+income_vs_savings.png,TRUE
+logistic_regression_roc_curve.png,TRUE
+model_coefficient_plot.png,TRUE

@@ -1,0 +1,35 @@
+# R and RStudio temporary files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Quarto and rendering temporary files
+.quarto/
+*_cache/
+*_files/
+*.knit.md
+*.tex
+*.log
+*.aux
+*.toc
+*.out
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+
+# Secrets and credentials
+.env
+.env.*
+!.env.example
+
+# Large temporary exports
+*.html
