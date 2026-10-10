@@ -490,7 +490,6 @@ It is especially relevant to roles in data analysis, operations analytics, credi
 Author
 
 Mgandi Mgala
-Data Science Learner | Microfinance Operations | Digital Financial Inclusion
 
 
 License
