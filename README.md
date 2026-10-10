@@ -493,9 +493,6 @@ Mgandi Mgala
 Data Science Learner | Microfinance Operations | Digital Financial Inclusion
 
 
-
-LinkedIn
-
 License
 
 This project is intended for educational and portfolio purposes.
